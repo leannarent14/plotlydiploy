@@ -1,3 +1,6 @@
+/*
+ * Generate Dropdown Menu Items: ID numbers.
+ */
 function init() {
   var selector = d3.select('#selDataset');
 
